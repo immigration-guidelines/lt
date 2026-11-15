@@ -1,0 +1,200 @@
+Suvestinė redakcija nuo 2023-11-09
+ 
+Įsakymas paskelbtas: TAR 2022-12-23, i. k. 2022-26697
+ 
+ 
+
+ 
+LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ MINISTRAS
+ 
+ĮSAKYMAS
+DĖL skaitmeninio leidimo laikinai gyventi lietuvos respublikoje IŠDAVIMO TVARKOS APRAŠO PATVIRTINIMO
+ 
+2022 m. gruodžio 23 d. Nr. 1V-799
+Vilnius
+ 
+
+
+Vadovaudamasis Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 95 straipsnio 1 dalimi: 
+
+
+
+
+1.  T v i r t i n u pridedamus:
+
+
+1.1. Skaitmeninio leidimo laikinai gyventi Lietuvos Respublikoje formą;
+
+
+
+
+1.2. Skaitmeninio leidimo laikinai gyventi Lietuvos Respublikoje išdavimo tvarkos aprašą. 
+
+
+
+
+
+
+2.    N u s t a t a u, kad šis įsakymas įsigalioja 2023 m. sausio 1 d.
+
+
+
+
+ 
+ 
+ 
+Vidaus reikalų ministrė                                                                                                      Agnė Bilotaitė
+
+
+
+
+
+
+ 
+PATVIRTINTA
+Lietuvos Respublikos vidaus reikalų ministro 
+2022 m. gruodžio 23 d. įsakymu Nr. 1V-799
+ 
+ 
+skaitmeninio leidimo laikinai gyventi lietuvos respublikoje IŠDAVIMO TVARKOS APRAŠAS
+ 
+
+
+1.  Skaitmeninio leidimo laikinai gyventi Lietuvos Respublikoje išdavimo tvarkos aprašas (toliau – Aprašas) nustato Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ (toliau – Įstatymas) 40 straipsnio 1 dalies 10 punkte nurodytu pagrindu išduodamo skaitmeninio leidimo laikinai gyventi Lietuvos Respublikoje (toliau – skaitmeninis leidimas laikinai gyventi) išrašymo, perdavimo užsieniečiui ir skaitmeniniame leidime laikinai gyventi įrašomų (užšifruojamų) duomenų bei jų teisingumo patikrinimo tvarką. 
+
+
+
+
+2.  Įstatymo 40 straipsnio 1 dalies 10 punkte nurodytu pagrindu teikiamo prašymo išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje (toliau – prašymas išduoti leidimą), sprendimo išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje (toliau – leidimas laikinai gyventi) priėmimą, įvertinimo, ar nėra leidimo laikinai gyventi panaikinimo pagrindų, ir leidimo laikinai gyventi panaikinimo tvarką, leidimo laikinai gyventi negaliojimą nustato Leidimų laikinai gyventi Lietuvos Respublikoje užsieniečiams išdavimo tvarkos aprašas, patvirtintas Lietuvos Respublikos vidaus reikalų ministro 2005 m. spalio 12 d. įsakymu Nr. 1V-329 „Dėl Leidimų laikinai gyventi Lietuvos Respublikoje užsieniečiams išdavimo tvarkos aprašo patvirtinimo“. 
+Punkto pakeitimai:
+Nr. 1V-697, 2023-11-08, paskelbta TAR 2023-11-08, i. k. 2023-21683
+ 
+
+
+
+
+3.  Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas), priėmęs sprendimą išduoti ar pakeisti leidimą laikinai gyventi, per 2 darbo dienas nuo sprendimo priėmimo per Lietuvos migracijos informacinę sistemą (toliau – MIGRIS) suformuoja ir pateikia užsakymą dėl skaitmeninio leidimo laikinai gyventi išrašymo Asmens dokumentų išrašymo centrui prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Asmens dokumentų išrašymo centras). 
+Punkto pakeitimai:
+Nr. 1V-697, 2023-11-08, paskelbta TAR 2023-11-08, i. k. 2023-21683
+ 
+
+
+
+
+4.  Asmens dokumentų išrašymo centras ne vėliau kaip per vieną darbo dieną nuo užsakymo dėl skaitmeninio leidimo laikinai gyventi išrašymo gavimo dienos suformuoja skaitmeninio leidimo laikinai gyventi kriptografiškai pasirašytą Matomą skaitmeninį spaudą (toliau – MSS) (angl. Visible Digital Seal) ir nustatytos formos skaitmeninį leidimą laikinai gyventi PDF formatu.
+
+
+
+
+5.  MSS įrašomi (užšifruojami) šie duomenys: 
+
+
+5.1. dokumento kodas;
+
+
+
+
+5.2. išduodančioji valstybė;
+
+
+
+
+5.3. vardas (-ai), pavardė (-ės);
+
+
+
+
+5.4. gimimo data;
+
+
+
+
+5.5. asmens kodas, suteiktas Lietuvos Respublikos gyventojų registro įstatymo nustatyta tvarka;
+
+
+
+
+5.6. pilietybė;
+
+
+
+
+5.7. lytis;
+
+
+
+
+5.8. skaitmeninio leidimo laikinai gyventi išdavimo data;
+
+
+
+
+5.9. data, iki kurios galioja skaitmeninis leidimas laikinai gyventi;
+
+
+
+
+5.10.  skaitmeninio leidimo laikinai gyventi numeris.
+
+
+
+
+
+
+6.  Skaitmeniniame leidime laikinai gyventi atvaizduojami Aprašo 5.3–5.10 papunkčiuose nurodyti duomenys, užsieniečio veido atvaizdas, gimimo vieta, skaitmeninio leidimo laikinai gyventi išdavimo vieta, leidimo rūšis (leidimas laikinai gyventi) ir išdavimo pagrindas. 
+Punkto pakeitimai:
+Nr. 1V-697, 2023-11-08, paskelbta TAR 2023-11-08, i. k. 2023-21683
+ 
+
+
+
+
+7.  Suformavus MSS ir jį įrašius į skaitmeninį leidimą laikinai gyventi, skaitmeninis leidimas laikinai gyventi automatiniu būdu:
+
+
+7.1. iš Asmens dokumentų išdavimo informacinės sistemos perduodamas į MIGRIS; 
+
+
+
+
+7.2. perduodamas užsieniečiui į jo MIGRIS paskyrą;
+
+
+
+
+7.3. skelbiamas galiojančiu Asmens dokumentų išdavimo informacinėje sistemoje nuo skaitmeniniame leidime laikinai gyventi nurodytos išdavimo datos.
+
+
+
+
+
+
+8.  Užsienietis gali atsispausdinti skaitmeninį leidimą laikinai gyventi arba išsisaugoti jį elektroniniame įrenginyje. 
+
+
+
+
+9.  Skaitmeninio leidimo laikinai gyventi duomenų teisingumą ir leidimo galiojimą galima patikrinti Migracijos departamento interneto svetainėje www.migracija.lt. 
+
+
+
+
+10. Atliekant Aprašo 9 punkte nurodytą tikrinimą, Migracijos departamento interneto svetainėje www.migracija.lt atvaizduojami Aprašo 5.3–5.10 papunkčiuose nurodyti duomenys, užsieniečio veido atvaizdas, leidimo rūšis (leidimas laikinai gyventi) ir informacija, ar skaitmeninis leidimas laikinai gyventi galioja. 
+Papildyta punktu:
+Nr. 1V-697, 2023-11-08, paskelbta TAR 2023-11-08, i. k. 2023-21683
+ 
+
+
+
+
+___________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos vidaus reikalų ministerija, Įsakymas
+Nr. 1V-697, 2023-11-08, paskelbta TAR 2023-11-08, i. k. 2023-21683
+Dėl Lietuvos Respublikos vidaus reikalų ministro 2022 m. gruodžio 23 d. įsakymo Nr. 1V-799 „Dėl Skaitmeninio leidimo laikinai gyventi Lietuvos Respublikoje išdavimo tvarkos aprašo patvirtinimo“ pakeitimo

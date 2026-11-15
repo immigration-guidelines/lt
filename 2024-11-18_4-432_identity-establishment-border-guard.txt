@@ -1,0 +1,388 @@
+Valstybės sienos apsaugos tarnybos
+prie Lietuvos Respublikos Vidaus reikalų ministerijos
+VADAS
+ 
+ 
+ĮSAKYMAS
+DĖL UŽSIENIEČIO ASMENS TAPATYBĖS NUSTATYMO VALSTYBĖS SIENOS APSAUGOS TARNYBOJE PRIE LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ MINISTERIJOS TVARKOS APRAŠO PATVIRTINIMO
+ 
+2024 m. lapkričio 18 d. Nr. 4-432
+Vilnius
+ 
+ 
+
+
+Vadovaudamasis Lietuvos Respublikos vidaus reikalų ministro 2024 m. liepos 8 d. įsakymo Nr. 1V-435 „Dėl asmens tapatybės nustatymo procedūrų“ 2 punktu bei siekdamas užtikrinti  2019 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/817 dėl ES informacinių sistemų sienų ir vizų srityje sąveikumo sistemos sukūrimo, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 767/2008, (ES) 2016/399, (ES) 2017/2226, (ES) 2018/1240, (ES) 2018/1726 ir (ES) 2018/1861 bei Tarybos sprendimai 2004/512/EB ir 2008/633/TVR 20 straipsnio 5 ir 6 dalių, 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/818 dėl ES informacinių sistemų policijos ir teisminio bendradarbiavimo, prieglobsčio ir migracijos srityje sąveikumo sistemos sukūrimo, kuriuo iš dalies keičiami reglamentai (ES) 2018/1726, (ES) 2018/1862 ir (ES) 2019/816, 20 straipsnio 5 ir 6 dalių įgyvendinimą:
+
+
+
+
+1. T v i r t i n u Užsieniečio asmens tapatybės nustatymo Valstybės sienos apsaugos tarnyboje prie Lietuvos Respublikos vidaus reikalų ministerijos tvarkos aprašą (pridedama).
+
+
+
+
+2. N u s t a t a u, kad šis įsakymas įsigalioja 2025 m. sausio 1 d. 
+
+
+
+
+3. S k e l b i u šį įsakymą Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos interneto svetainėje ir Teisės aktų registre.
+
+
+
+
+ 
+ 
+ 
+Tarnybos vadas                                                                                               Rustamas Liubajevas
+ 
+
+
+
+
+
+
+ 
+PATVIRTINTA
+Valstybės sienos apsaugos tarnybos
+prie Lietuvos Respublikos vidaus 
+reikalų ministerijos vado
+2024 m. lapkričio 18 d. 
+įsakymu Nr. 4-432
+ 
+ 
+ 
+UŽSIENIEČIO ASMENS TAPATYBĖS NUSTATYMO VALSTYBĖS SIENOS APSAUGOS TARNYBOJE PRIE LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ MINISTERIJOS TVARKOS APRAŠAS
+ 
+
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+ 
+
+
+1. Užsieniečio asmens tapatybės nustatymo Valstybės sienos apsaugos tarnyboje prie Lietuvos Respublikos vidaus reikalų ministerijos tvarkos aprašas (toliau – Aprašas) nustato užsieniečių, ketinančių atvykti į Lietuvos Respubliką ar esančių joje (toliau – užsienietis), asmens tapatybės nustatymo tikslus ir priemones bei asmens duomenų tikrinimų Bendroje tapatybės duomenų saugykloje (toliau – bendra TDS) sąlygas ir kriterijus. 
+
+
+
+
+2. Užsieniečio asmens tapatybės nustatymas – tai Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – VSAT) vidaus tarnybos sistemos statutinio pareigūno arba karjeros valstybės tarnautojo (toliau – darbuotojas), kurių funkcijos susijusios su užsieniečių kontrole, nusikalstamų veikų tyrimu, rizikos analizės vertinimu ir kt., veiksmai, kuriais palyginami esami duomenys apie užsienietį su jo turimais asmens dokumentais arba, jų nesant, kitomis priemonėmis gautais ar nustatytais duomenimis apie tą užsienietį.
+
+
+
+
+3. Gauti duomenys apie užsieniečio asmens tapatybę vertinami patikimumo (priimtinumo) požiūriu, kai priimamas sprendimas dėl jo teisinės padėties Lietuvos Respublikoje.
+
+
+
+
+4. VSAT darbuotojo sprendimas nustatyti užsieniečio asmens tapatybę turi būti teisėtas ir pagrįstas tarnybinių funkcijų vykdymu.
+
+
+
+
+5. Apraše vartojamos sąvokos atitinka Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ ir Europos Parlamento ir Tarybos reglamente (ES) 2019/817 dėl ES informacinių sistemų sienų ir vizų srityje sąveikumo sistemos sukūrimo, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 767/2008, (ES) 2016/399, (ES) 2017/2226, (ES) 2018/1240, (ES) 2018/1726 ir (ES) 2018/1861 bei Tarybos sprendimai 2004/512/EB ir 2008/633/TVR, vartojamas sąvokas.
+ 
+
+
+
+
+
+
+II SKYRIUS
+UŽSIENIEČIO ASMENS TAPATYBĖS NUSTATYMO TIKSLAI
+ 
+
+
+6. Užsieniečio asmens tapatybė gali būti nustatoma šiais tikslais:
+
+
+6.1. siekiant išsiaiškinti užsieniečio teisinį statusą Lietuvos Respublikoje;
+
+
+
+
+6.2. siekiant išsiaiškinti asmens tapatybę užsieniečio, kuriam pradėtas ikiteisminis tyrimas;
+
+
+
+
+6.3. siekiant išsiaiškinti asmens tapatybę užsieniečio, kuris galbūt kelia grėsmę viešajai tvarkai ar visuomenei. 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+III SKYRIUS
+UŽSIENIEČIO ASMENS TAPATYBĖS NUSTATYMO PRIEMONĖS
+ 
+
+
+7. Užsieniečio asmens tapatybė gali būti nustatoma:
+
+
+7.1. atlikus užsieniečio asmens tapatybę patvirtinančių dokumentų patikrinimą;
+
+
+
+
+7.2. atlikus užsieniečio apklausą, jei jis neturi jokių asmens tapatybę patvirtinančių dokumentų;
+
+
+
+
+7.3. atlikus kitų asmenų apklausą apie užsienietį, kurio asmens tapatybė nustatinėjama, jeigu tokie asmenys kaip nors susiję su šiuo užsieniečiu;
+
+
+
+
+7.4. atlikus užsieniečio asmens duomenų paiešką pagal:
+
+
+7.4.1. užsieniečio raidinius skaitmeninius duomenis Lietuvos migracijos informacinėje sistemoje (toliau – MIGRIS), kitose nacionalinėse informacinėse sistemose bei registruose, Europos Sąjungos informacinėse sistemose (toliau – ES IS) ir bendroje TDS;
+
+
+
+
+7.4.2. užsieniečio biometrinius duomenis – veido atvaizdą, nuotrauką ir (ar) pirštų atspaudus – MIGRIS ir kitose nacionalinėse informacinėse sistemose bei registruose, ES IS ir bendroje TDS.
+
+
+
+
+
+
+
+
+8. Užsieniečio asmens tapatybė gali būti įrodoma šiais dokumentais:
+
+
+8.1. kelionės dokumentu;
+
+
+
+
+8.2. bet kurios rūšies pasu, asmens tapatybės kortele ar kitu dokumentu, kuriame nurodyti duomenys apie asmenį ir yra asmens nuotrauka.
+
+
+
+
+
+
+9. Tikėtina užsieniečio asmens tapatybė gali būti nustatoma:
+
+
+9.1. Aprašo 7 punkte nurodytų dokumentų kopijomis;
+
+
+
+
+9.2. dokumentu, kurį yra išdavusi oficiali valstybės valdžios institucija ir jame nurodyti duomenys apie asmenį;
+
+
+
+
+9.3. kitais dokumentais, kuriuose yra duomenys apie užsienietį, tačiau juose nėra užsieniečio nuotraukos.
+
+
+
+
+
+
+10. Nustatant užsieniečio asmens tapatybę pagal pateiktus ar turimus dokumentus turi būti vizualiai įsitikinta, ar dokumentai yra tikri, ar juose nėra klastojimo požymių, ar dokumentai priklauso tam asmeniui, kurio asmens tapatybė nustatinėjama.
+
+
+
+
+11. Jeigu užsienietis neturi jokių asmens tapatybę patvirtinančių dokumentų arba turimi dokumentai nepatvirtina jo asmens tapatybės, turi būti atlikta užsieniečio apklausa.
+
+
+
+
+12. Apklausa turi vykti kalba, kurią supranta apklausiamas užsienietis. Jeigu nėra galimybės susikalbėti, turi būti kviečiamas vertėjas.
+
+
+
+
+13. Apklausos metu būtina išsiaiškinti šiuos duomenis apie užsienietį:
+
+
+13.1. vardą (-us), pavardę (-es);
+
+
+
+
+13.2. gimimo datą ir vietą;
+
+
+
+
+13.3. pilietybę;
+
+
+
+
+13.4. lytį;
+
+
+
+
+13.5. motinos ir tėvo vardus, pavardes, gimimo datas ir vietas, gyvenamąsias vietas;
+
+
+
+
+13.6. šeiminę padėtį;
+
+
+
+
+13.7. sutuoktinio vardą, pavardę, gimimo datą ir vietą, gyvenamąją vietą, kur ir kada sudaryta santuoka;
+
+
+
+
+13.8. vaikų vardus, pavardes, gimimo datas ir vietas, gyvenamąsias vietas;
+
+
+
+
+13.9. kitų giminaičių (brolių, seserų) vardus, pavardes, gimimo datas ir vietas, gyvenamąsias vietas;
+
+
+
+
+13.10. kitų asmenų, galinčių patvirtinti asmens tapatybę, vardus, pavardes, gimimo datas ir vietas, gyvenamąsias vietas;
+
+
+
+
+13.11. gimtąją kalbą, užsienio kalbas, kurias moka asmuo;
+
+
+
+
+13.12. išsilavinimą ir mokymo įstaigą, kurią baigė asmuo;
+
+
+
+
+13.13. pastarąją darbovietę, kurioje dirba / dirbo, pareigas;
+
+
+
+
+13.14. gyvenamąją (deklaruotą, faktinę, apsistojimo, planuojamo apsistojimo) vietą Lietuvos Respublikoje;
+
+
+
+
+13.15. turimą kelionės dokumentą ar kitą asmens tapatybę patvirtinantį dokumentą, išdavimo datą ir vietą, galiojimo datą, priežastį, dėl kurios negali pateikti šio dokumento, ir šio dokumento dabartinę buvimo vietą;
+
+
+
+
+13.16. jei turėjo suklastotus asmens dokumentus, jų įsigijimo vietą (-as), kainą, kitas įsigijimo aplinkybes;
+
+
+
+
+13.17. išduotą Lietuvos Respublikos ar kitos Europos Sąjungos ar Šengeno valstybės narės vizą ar leidimą gyventi (jei turėjo), išdavimo datą ir vietą, galiojimo datą, išdavusią valstybę;
+
+
+
+
+13.18. kitus būtinus duomenis.
+
+
+
+
+
+
+14. Jeigu užsienietis neturi asmens tapatybę patvirtinančių dokumentų arba turimi dokumentai nepatvirtina asmens tapatybės, turi būti atliekama ir kartu su šiuo užsieniečiu susijusių kitų asmenų (pvz., kartu atvykusių į Lietuvos Respubliką, kartu gyvenančių ar pas kuriuos gyveno, dirbo ir pan.) apklausa.
+
+
+
+
+15. Kitų asmenų apklausos metu turi būti išsiaiškinti apklausiamojo asmens duomenys (vardas, pavardė, gimimo data ir vieta, pilietybė, gyvenamoji vieta) ir šie duomenys apie užsienietį, kurio asmens tapatybė nustatinėjama:
+
+
+15.1. Aprašo 12 punkte nurodyti duomenys;
+
+
+
+
+15.2. kur, kada ir kokomis aplinkybėmis susipažino su užsieniečiu, kurio asmens tapatybė nustatinėjama.
+
+
+
+
+
+
+16. Siekiant išsiaiškinti asmens tapatybę užsieniečio, kuriam pradėtas ikiteisminis tyrimas arba kuris galbūt kelia grėsmę viešajai tvarkai ar visuomenei, asmens duomenys, kartu ir biometriniai asmens duomenys, gali būti tikrinami ES IS ir bendroje TDS, kai išnaudotos visos kitos asmens tapatybės nustatymo priemonės. 
+ 
+
+
+
+
+
+
+IV SKYRIUS
+UŽSIENIEČIO ASMENS DUOMENŲ TIKRINIMO BENDROJE TDS
+SĄLYGOS IR KRITERIJAI
+ 
+
+
+17. Užsieniečio asmens duomenų tikrinimas bendroje TDS užsieniečio asmens tapatybės nustatymo tikslu atliekamas tik išnaudojus visas kitas Aprašo 6 punkte nurodytas priemones ir atitinka vieną iš šių kriterijų:
+
+
+17.1. užsienietis neturi asmens tapatybę patvirtinančių dokumentų;
+
+
+
+
+17.2. yra tikimybė, kad užsieniečio asmens tapatybę patvirtinantys dokumentai suklastoti ar padirbti.
+
+
+
+
+
+
+18. Užsieniečio biometrinių duomenų įvedimas į bendrą TDS tikrinimo tikslu galimas tik tada, kai asmens tapatybės nustatymo procedūra pradėta dalyvaujant tam užsieniečiui.
+
+
+
+
+19. Užsieniečių asmens duomenų tikrinimas bendroje TDS negali būti atliekamas jaunesniems nei 12 metų nepilnamečiams asmenims, išskyrus, kai tai būtina siekiant užtikrinti geriausius vaiko interesus.
+ 
+
+
+
+
+
+
+V SKYRIUS
+BAIGIAMOSIOS NUOSTATOS
+ 
+
+
+20. Nustatant užsieniečio asmens tapatybę siekiant išsiaiškinti užsieniečio teisinį statusą Lietuvos Respublikoje ar asmens tapatybę užsieniečio, galbūt keliančio grėsmę viešajai tvarkai ar visuomenei, visi surinkti duomenys, dokumentai ar jų kopijos ir kita informacija teisės aktų nustatyta tvarka tvarkoma užsieniečio, kurio tapatybė nustatinėjama, asmens byloje.
+
+
+
+
+21.  Nustatant asmens tapatybę užsieniečio, kuriam pradėtas ikiteisminis tyrimas, visi surinkti duomenys, dokumentai ar jų kopijos ir kita informacija pridedama prie ikiteisminio tyrimo medžiagos Integruotoje baudžiamojo proceso sistemoje. 
+ 
+
+
+
+
+
+
+_____________________

@@ -1,0 +1,79 @@
+Lithuania - published administrative guidance on immigration case handling
+Checked 2026-11-15.
+
+Result: Lithuania publishes no informal case-officer manual, circulars or
+"methodological recommendations" for visa, residence or asylum decisions. Everything an
+official works from in public is a registered legal act: a "procedure description"
+(tvarkos aprašas), rules, criteria or a methodology approved by order of a minister or of
+the head of the deciding agency and published in the Register of Legal Acts (TAR).
+37 such acts are saved here:
+  15 flagged "guidance"       - orders of the agency heads themselves (Migration Department
+                                director 7, State Border Guard Service commander 7, Police
+                                Commissioner General 1) that set criteria, a methodology or
+                                internal steps for their own decision-makers. They are the
+                                closest thing to guidance, but formally they are still
+                                normative orders in the register, not manuals.
+  22 flagged "procedural act" - ministerial orders (Interior; Foreign Affairs; Social
+                                Security and Labour jointly) approving the procedure
+                                description that is the working manual for a case type
+                                (temporary residence permits, long-term residence, asylum,
+                                national and Schengen visas, EU citizens, return and
+                                expulsion, detention, age assessment, ...).
+True non-legislative guidance: 0 files.
+
+Who decides
+- Migration Department under the Ministry of the Interior (Migracijos departamentas prie
+  VRM): residence permits, national visas, asylum, entry bans, return decisions.
+- State Border Guard Service (VSAT): border refusals, visas at the border, return,
+  detention, identity and threat checks. Police: public-order threat conclusions.
+- Ministry of Foreign Affairs / consulates: Schengen visas.
+
+Sources
+- USED: open-data copy of the Register of Legal Acts published by the Office of the
+  Seimas, https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/ (models Dokumentas,
+  Suvestine, Priedas; robots.txt allows it, Crawl-delay 5 observed). Queried by adopting
+  institution ("Migracijos departament...": 342 acts, of which about 250 are individual
+  citizenship decisions of 2006-2011) and by title stems (užsienieč, prieglobs, viz,
+  gyventi, migracij, išsiun, fiktyv, be pilietybės, laikinosios apsaugos, Šengeno).
+  From about 7,100 hits the valid base acts of the Interior and Foreign ministries, the
+  Migration Department, VSAT and the Police that govern how a case is decided were picked
+  by hand (list in download_lt.py). Amending orders, forms, fees, registers/IT systems,
+  EU-fund and quota acts, and all citizenship acts were left out.
+- NOT USABLE: https://www.e-tar.lt/ , https://e-seimas.lrs.lt/ and
+  https://migracija.lrv.lt/ all answered the very first request (robots.txt) with a
+  Cloudflare "Just a moment..." challenge, HTTP 403; https://www.lrs.lt/ returned a plain
+  403. None of them was used after that, nothing was worked around.
+- Internet Archive: one CDX query for migracija.lrv.lt files whose names contain
+  metodin/rekomendac/gair/atmintin/instrukc/vadov returned only applicant leaflets
+  (MIGRIS how-to-apply memos, application-filling instructions) and staff CV pages;
+  a second query was refused (connection failed) and the archive was not used again.
+- Web searches (Lithuanian) for "metodinės rekomendacijos", "rekomendacijos",
+  director's orders on examining residence permit and asylum applications: no
+  published recommendations; results were court rulings, Seimas Ombudsman reports,
+  EMN studies and the department's annual reports.
+
+About the files
+- Each .txt is the register's own text field for the act, written out unchanged as
+  UTF-8: the consolidated version currently in force where the register has one
+  (normally headed "Suvestinė redakcija nuo ..."; 20 files), otherwise the act as
+  adopted (17 files). index.tsv says which, with the open-data URL the text came from
+  and the e-tar.lt page of the act. File dates are adoption dates (2004-2026).
+- The original DOCX/PDF files and the annexes (mostly forms) are on e-tar.lt and were
+  not fetched (bot check). Annex texts exist in the open-data model "Priedas" and could
+  be added by dokumento_id if wanted.
+- 4-232 (2010) and 4-321 (2019) of the border guard have the same title; both are
+  marked valid in the register and both are kept.
+
+Completeness doubts
+- The selection is by title keywords; an act with an unusual title could be missed
+  (e.g. State Security Department or Employment Service orders that feed into residence
+  decisions were not searched for).
+- Anything the Migration Department publishes only on its own website (FAQ-style
+  practice notes, if any) could not be checked because of the bot check.
+- Unregistered internal orders of the Migration Department director (not published in
+  TAR) are not public.
+
+Not obtained: see not-obtained.tsv.
+
+Re-run: ./download_lt.py   (skips files already present; about 3 requests per new act,
+5 s apart; rewrites index.tsv and not-obtained.tsv)

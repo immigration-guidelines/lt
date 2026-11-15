@@ -1,0 +1,72 @@
+MIGRACIJOS DEPARTAMENTO PRIE LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ
+MINISTERIJOS PRIEGLOBSČIO REIKALŲ SKYRIAUS VIRŠININKAS
+
+
+
+
+
+
+
+ 
+MIGRACIJOS DEPARTAMENTO 
+PRIE LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ MINISTERIJOS 
+DIREKTORIUS
+ 
+ĮSAKYMAS
+ 
+DĖL „DUBLINET“ SISTEMA SIUNČIAMUOSE DOKUMENTUOSE NAUDOJAMO NUORODOS NUMERIO STRUKTŪROS PATVIRTINIMO IR SUTEIKIMO TVARKOS
+ 
+2014 m. kovo 6 d. Nr. 3K-24
+Vilnius
+ 
+
+
+Atsižvelgdamas į 2003 m. rugsėjo 2 d. Komisijos reglamento (EB) Nr. 1560/2003, nustatančio detalias Tarybos reglamento (EB) Nr. 343/2003, nustatančio valstybės narės, atsakingos už trečiosios valstybės piliečio vienoje iš valstybių narių pateikto prieglobsčio prašymo nagrinėjimą, nustatymo kriterijus ir mechanizmus, taikymo taisykles (OL L 222, 2003 9 5, p. 3), su pakeitimais, padarytais 2014 m. sausio 30 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 118/2014 (OJ L 39, 8.2.2014, p. 1), 20 straipsnį, 
+
+
+
+
+n u s t a t a u, k a d:
+
+
+
+
+1. „DubliNet“ sistema siunčiamuose dokumentuose naudojamą nuorodos numerį Lietuvos Respublikoje sudaro 13 ženklų kodas, kuriame:
+
+
+1.1. pirmasis ir antrasis ženklai yra raidės „LT“;
+
+
+
+
+1.2. trečiasis ženklas yra skaitmuo „1“ (prašymas dėl atsakomybės už prieglobsčio prašymo nagrinėjimą perėmimo), „2“ (prašymas dėl prieglobsčio prašytojo atsiėmimo), „3“ (informacijos prašymas), „4“ (keitimasis informacija apie prieglobsčio prašytojo vaiką, brolį ir (arba) seserį arba tėvą ir (arba) motiną, kurie nuo jo priklauso), „5“ (keitimasis informacija apie nelydimo nepilnamečio šeimą, brolį ir (arba) seserį arba giminaitį), „6“ (informacijos siuntimas prieš perdavimą) arba „7“ (bendros sveikatos patikrinimo medicininės pažymos siuntimas);
+
+
+
+
+1.3. ketvirtasis–šeštasis ženklai yra raidės „DUB“;
+
+
+
+
+1.4. septintasis–devintasis ženklai yra skaitmenys, nurodantys užsieniečio kilmės valstybę pagal Migracijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas) direktoriaus 2004 m. gegužės 21 d. įsakymu Nr. 3K-27 patvirtintus valstybių ir priklausomų teritorijų kodus, naudojamus „Eurodac“ nuorodos numeryje;
+
+
+
+
+1.5. dešimtasis–tryliktasis ženklai yra užsieniečio asmens bylos numeris (pavyzdžiui, „0025“).
+
+
+
+
+
+
+2. „DubliNet“ sistema siunčiamuose dokumentuose naudojamą nuorodos numerį suteikia Migracijos departamento Prieglobsčio reikalų skyrius.
+ 
+ 
+ 
+
+
+
+
+Direktorius                                                                                                      Almantas Gavėnas

@@ -1,0 +1,379 @@
+MIGRACIJOS DEPARTAMENTO
+PRIE LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ MINISTERIJOS
+DIREKTORIUS
+ 
+ĮSAKYMAS
+DĖL ASMENS TAPATYBĖS NUSTATYMO MIGRACIJOS DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ MINISTERIJOS METODIKOS PATVIRTINIMO
+ 
+2024 m. gruodžio 31 d. Nr. 3K-369
+Vilnius
+ 
+
+
+Vadovaudamasi Lietuvos  Respublikos vidaus reikalų ministro 2024 m. liepos 8 d. įsakymo Nr. 1V-435 „Dėl asmens tapatybės nustatymo procedūrų“ 2 punktu ir siekdama užtikrinti 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/817 dėl ES informacinių sistemų sienų ir vizų srityje sąveikumo sistemos sukūrimo, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 767/2008, (ES) 2016/399, (ES) 2017/2226, (ES) 2018/1240, (ES) 2018/1726 ir (ES) 2018/1861 bei Tarybos sprendimai 2004/512/EB ir 2008/633/TVR, 20 straipsnio 5 ir 6 dalių, 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/818 dėl ES informacinių sistemų policijos ir teisminio bendradarbiavimo, prieglobsčio ir migracijos srityje sąveikumo sistemos sukūrimo, kuriuo iš dalies keičiami reglamentai (ES) 2018/1726, (ES) 2018/1862 ir (ES) 2019/816, 20 straipsnio 5 ir 6 dalių įgyvendinimą,
+
+
+
+
+t v i r t i n u Asmens tapatybės nustatymo Migracijos departamente prie Lietuvos Respublikos vidaus reikalų ministerijos metodiką (pridedama).
+ 
+ 
+
+
+
+
+Direktorė                                                                                                          Evelina Gudzinskaitė
+
+
+
+
+
+
+ 
+PATVIRTINTA
+Migracijos departamento prie
+Lietuvos Respublikos vidaus reikalų ministerijos direktoriaus 
+2024 m. gruodžio 31 d. 
+įsakymu Nr. 3K-369
+ 
+ 
+ 
+ASMENS TAPATYBĖS NUSTATYMO MIGRACIJOS DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ MINISTERIJOS
+METODIKA
+ 
+
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+ 
+
+
+1. Asmens tapatybės nustatymo Migracijos departamente prie Lietuvos Respublikos vidaus reikalų ministerijos metodika (toliau – metodika) nustato asmens tapatybės nustatymo tikslus ir priemones bei asmens duomenų tikrinimų Bendroje tapatybės duomenų saugykloje, kuri yra vienas iš Europos Sąjungos informacinių sistemų sąveikumo komponentų (toliau – bendra TDS), procedūras, sąlygas ir kriterijus.
+
+
+
+
+2. Asmens tapatybės nustatymas – tai Migracijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas) valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, (toliau kartu – darbuotojas) veiksmai, kuriais palyginami esami duomenys apie asmenį su jo turimais asmens dokumentais arba, jų nesant, kitomis priemonėmis gautais ar nustatytais duomenimis apie tą asmenį.
+
+
+
+
+3. Gauti duomenys apie asmens tapatybę yra vertinami patikimumo (priimtinumo) požiūriu, kai priimamas sprendimas dėl jo teisinės padėties Lietuvos Respublikoje.
+
+
+
+
+4. Migracijos departamento darbuotojas, teikdamas asmenims paslaugas arba atlikdamas kitas teisės aktais pavestas funkcijas tiesiogiai arba nuotoliniu būdu, pirmiausia turi nustatyti asmens tapatybę.
+
+
+
+
+5. Metodikoje vartojamos sąvokos apibrėžtos Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatyme.
+ 
+
+
+
+
+
+
+II SKYRIUS
+ASMENS TAPATYBĖS NUSTATYMO TIKSLAI IR PRIEMONĖS
+ 
+
+
+6. Asmens tapatybės nustatymo tikslas – nustatyti užsieniečių teisinę padėtį Lietuvos Respublikoje arba priimti sprendimus dėl užsieniečių teisinės padėties Lietuvos Respublikoje, vykdyti užsieniečių buvimo ar gyvenimo Lietuvos Respublikoje kontrolę, taip pat teikti asmens tapatybę ir pilietybę patvirtinančių dokumentų išdavimo paslaugas Lietuvos Respublikos piliečiams.
+
+
+
+
+7. Teikiant asmens tapatybę ir pilietybę patvirtinančių dokumentų išdavimo paslaugas Lietuvos Respublikos piliečiams, šios metodikos nuostatos dėl asmens tapatybės nustatymo taikomos tiek, kiek nėra taikomos Asmens tapatybės kortelės ir paso išdavimo tvarkos aprašo, patvirtinto Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro 2015 m. kovo 19 d. įsakymu Nr. 1V-200 / V-62 „Dėl Asmens tapatybės kortelės ir paso išdavimo tvarkos aprašo patvirtinimo“, nuostatos.
+
+
+
+
+8. Asmens tapatybė gali būti nustatoma šiomis priemonėmis:
+
+
+8.1. atlikus asmens tapatybę patvirtinančių dokumentų (kelionės dokumentas arba kitas bet kurios rūšies pasas ar asmens tapatybės kortelė) patikrinimą; 
+
+
+
+
+8.2. atlikus kitų dokumentų, kuriuose yra nurodyti duomenys apie asmenį ir yra įklijuota asmens nuotrauka, patikrinimą;
+
+
+
+
+8.3. atlikus asmens apklausą;
+
+
+
+
+8.4. atlikus kitų asmenų apklausą apie asmenį, kurio asmens tapatybė nustatinėjama, jeigu tokie asmenys yra kaip nors susiję su šiuo asmeniu;
+
+
+
+
+8.5. atlikus asmens duomenų paiešką pagal:
+
+
+8.5.1. asmens raidinius skaitmeninius duomenis Lietuvos migracijos informacinėje sistemoje (toliau – MIGRIS), kitose nacionalinėse informacinėse sistemose bei registruose, Europos Sąjungos informacinėse sistemose (toliau – ES IS) ir bendroje TDS pagal suteiktus įgaliojimus;
+
+
+
+
+8.5.2. asmens biometrinius duomenis – veido atvaizdą, nuotrauką ir (ar) pirštų atspaudus – MIGRIS ir kitose informacinėse sistemose bei registruose, ES IS ir bendroje TDS pagal suteiktus įgaliojimus ir esant teisiniam pagrindui;
+
+
+
+
+
+
+8.6. atlikus metodikos 8.1 ar 8.2 papunkčiuose nurodytų dokumentų kopijų patikrinimą;
+
+
+
+
+8.7. atlikus dokumentų, kuriuos yra išdavusi oficiali valstybės valdžios institucija ir juose yra nurodyti duomenys apie asmenį, patikrinimą;
+
+
+
+
+8.8. atlikus kitų dokumentų, kuriuose yra duomenys apie asmenį, tačiau juose nėra asmens nuotraukos, patikrinimą.
+
+
+
+
+
+
+9. Asmens tapatybė laikoma patvirtinta, jeigu asmens tapatybė yra nustatyta pagal šios metodikos 8.1 papunktyje nurodytus dokumentus arba MIGRIS ir kitose informacinėse sistemose bei registruose, ES IS ar bendroje TDS esančius asmens duomenis, jeigu šie duomenys į nurodytas sistemas arba registrus buvo įrašyti pagal asmens tapatybę patvirtinantį dokumentą.
+
+
+
+
+10. Nustatant asmens tapatybę pagal pateiktus ar turimus dokumentus turi būti vizualiai įsitikinta, ar dokumentai yra tikri, ar juose nėra klastojimo požymių, ar dokumentai priklauso tam asmeniui, kurio asmens tapatybė nustatinėjama.
+
+
+
+
+11. Jeigu asmuo neturi jokių asmens tapatybę patvirtinančių dokumentų arba turimi dokumentai nėra pakankami asmens tapatybei nustatyti, turi būti atlikta asmens apklausa.
+
+
+
+
+12. Apklausa turi vykti kalba, kurią supranta apklausiamas asmuo. Jeigu nėra galimybės susikalbėti, turi būti kviečiamas vertėjas.
+
+
+
+
+13. Apklausos metu būtina išsiaiškinti šiuos duomenis apie asmenį:
+
+
+13.1. vardą (-us), pavardę (-es);
+
+
+
+
+13.2. gimimo datą ir vietą;
+
+
+
+
+13.3. pilietybę;
+
+
+
+
+13.4. lytį;
+
+
+
+
+13.5. motinos ir tėvo vardus, pavardes, gimimo datas ir vietas, gyvenamąsias vietas;
+
+
+
+
+13.6. šeiminę padėtį;
+
+
+
+
+13.7. sutuoktinio vardą, pavardę, gimimo datą ir vietą, gyvenamąją vietą, kur ir kada sudaryta santuoka;
+
+
+
+
+13.8. vaikų vardus, pavardes, gimimo datas ir vietas, gyvenamąsias vietas;
+
+
+
+
+13.9. kitų giminaičių (brolių, seserų) vardus, pavardes, gimimo datas ir vietas, gyvenamąsias vietas;
+
+
+
+
+13.10. kitų asmenų, galinčių padėti nustatyti asmens tapatybę, vardus, pavardes, gimimo datas ir vietas, gyvenamąsias vietas;
+
+
+
+
+13.11. gimtąją kalbą, užsienio kalbas, kurias moka asmuo;
+
+
+
+
+13.12. išsilavinimą ir mokymo įstaigą, kurią baigė asmuo;
+
+
+
+
+13.13. paskutinę darbovietę, kurioje dirbo asmuo, pareigas;
+
+
+
+
+13.14. gyvenamąją (apsistojimo, planuojamo apsistojimo) vietą Lietuvos Respublikoje;
+
+
+
+
+13.15. turimą kelionės dokumentą ar kitą asmens tapatybę patvirtinantį dokumentą, išdavimo datą ir vietą, galiojimo datą, priežastį, dėl kurios negali pateikti šio dokumento, ir šio dokumento dabartinę buvimo vietą;
+
+
+
+
+13.16. jeigu turėjo suklastotus asmens dokumentus, jų įsigijimo vietą (-as), kainą, kitas įsigijimo aplinkybes;
+
+
+
+
+13.17. išduotą Lietuvos Respublikos ar kitos Europos Sąjungos ar Šengeno valstybės narės vizą ar leidimą gyventi (jei turėjo), išdavimo datą ir vietą, galiojimo datą, išdavusią valstybę;
+
+
+
+
+13.18. kitus būtinus duomenis.
+
+
+
+
+
+
+14. Jeigu asmuo neturi asmens tapatybę patvirtinančių dokumentų arba turimi dokumentai nėra pakankami asmens tapatybei nustatyti, turi būti atliekama ir kartu su šiuo asmeniu susijusių kitų asmenų (pvz., kartu atvykusių į Lietuvos Respubliką, kartu gyvenančių ar pas kuriuos gyveno, dirbo ir pan.) apklausa.
+
+
+
+
+15. Kitų asmenų apklausos metu turi būti išsiaiškinti apklausiamojo asmens duomenys: vardas, pavardė, gimimo data ir vieta, pilietybė, gyvenamoji vieta) ir šie duomenys apie asmenį, kurio asmens tapatybė yra nustatinėjama:
+
+
+15.1. šios metodikos 13 punkte nurodyti duomenys;
+
+
+
+
+15.2. kur, kada ir kokomis aplinkybėmis susipažino su asmeniu, kurio asmens tapatybė yra nustatinėjama.
+
+
+
+
+
+
+16. Siekdamas išsiaiškinti, kur yra asmens tapatybę patvirtinantys dokumentai, Migracijos departamento darbuotojas gali paprašyti asmens, kad jis dėl galimybės gauti šiuos dokumentus parašytų ar paskambintų savo giminėms, draugams ir pan. Adresai ir telefono numeriai, kuriais yra susisiekiama su kitais asmenimis, turi būti užfiksuojami asmens apklausos protokole arba tarnybiniame pranešime.
+
+
+
+
+17. Siekiant nustatyti asmens tapatybę, asmens gali būti paprašoma prisijungti prie kilmės valstybės informacinės sistemos savo paskyros ir parodyti ten esančius duomenis, pagal kuriuos galima nustatyti asmens tapatybę.
+
+
+
+
+18. Asmens tapatybei nustatyti Migracijos departamento darbuotojas turi patikrinti asmens raidinius skaitmeninius duomenis MIGRIS.
+Jeigu atlikus paiešką pagal raidinius skaitmeninius duomenis duomenų MIGRIS nerandama, atliekama paieška MIGRIS pagal asmens biometrinius duomenis – veido atvaizdą, nuotrauką ir (ar) pirštų atspaudus.
+
+
+
+
+19. Kai turimų duomenų nepakanka asmens tapatybei nustatyti, gali būti atliekama asmens atpažinimo procedūra, per kurią asmens, kurio tapatybę reikia nustatyti, nuotrauka (veido atvaizdas) kartu su ne mažiau kaip trimis į jį panašių asmenų nuotraukomis (veido atvaizdais) pateikiama atpažinti ne mažiau kaip dviem artimiems asmens giminaičiams arba su juo gyvenusiems (gyvenantiems), dirbusiems (dirbantiems) ar jį pažinojusiems (pažįstantiems) asmenims, nurodytiems metodikos 13.10 papunktyje. Atlikus asmens atpažinimo procedūrą, surašomas laisvos formos asmens atpažinimo protokolas.
+
+
+
+
+20. Asmens tapatybės nustatymo procedūra vykdoma raštu, surašant protokolą, kurį turi pasirašyti procedūroje dalyvavęs asmuo, Migracijos departamento darbuotojas ir vertėjas (jeigu dalyvavo).
+
+
+
+
+21. Migracijos departamentas gali kreiptis į kitas valstybės ir savivaldybių institucijas ir įstaigas, taip pat į užsienio valstybių institucijas dėl reikiamų duomenų ar dokumentų gavimo, jeigu šių duomenų ar dokumentų reikia asmens duomenims ir (ar) asmens tapatybei patikrinti.
+Jeigu asmuo, kurio tapatybė yra nustatinėjama, yra užsienietis, paklausimas dėl užsieniečio asmens tapatybės, pilietybės ir gyvenamosios vietos nustatymo, į užsieniečio kilmės valstybės kompetentingas institucijas, pvz., į užsienio valstybės ambasadą ar konsulinę įstaigą ir pan., gali būti siunčiami vadovaujantis tarptautiniais ir kitais susitarimais bei kitais teisės aktais.
+
+
+
+
+22. Jeigu asmuo, kurio asmens tapatybę reikia nustatyti, neturi asmens tapatybę patvirtinančių dokumentų, nėra asmenų, kurie galėtų suteikti informaciją apie asmenį, ir pats asmuo atsisako ar negali nurodyti duomenų apie save, turi būti kviečiami Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba) pareigūnai, kad atliktų asmens, jo daiktų ir drabužių apžiūrą, pratęstų asmens tapatybės nustatymo procedūrą ir (ar) spręstų klausimą dėl asmens sulaikymo.
+ 
+
+
+
+
+
+
+III SKYRIUS
+ASMENS DUOMENŲ TIKRINIMO BENDROJE TDS PROCEDŪROS, SALYGOS IR KRITERIJAI
+ 
+
+
+23. Migracijos departamento darbuotojai, siekdami nustatyti asmens tapatybę, asmens duomenis  gali tikrinti bendroje TDS tik išnaudoję visas kitas metodikos 8 punkte nurodytas priemones ir, jeigu toks tikrinimas atitinka vieną iš šių kriterijų:
+
+
+23.1. asmuo neturi asmens tapatybę patvirtinančių dokumentų;
+
+
+
+
+23.2. yra tikimybė, kad asmens tapatybę patvirtinantys dokumentai suklastoti ar padirbti.
+
+
+
+
+
+
+24. Asmens biometrinius duomenis, siekiant juos patikrinti, įvesti į bendrą TDS galima tik tada, kai asmens tapatybės nustatymo procedūra pradėta dalyvaujant tam asmeniui.
+
+
+
+
+25. Užsieniečių asmens duomenų tikrinimas bendroje TDS negali būti atliekamas jaunesniems nei 12 metų nepilnamečiams asmenims, išskyrus, kai tai būtina siekiant užtikrinti geriausius vaiko interesus.
+ 
+
+
+
+
+
+
+IV SKYRIUS
+BAIGIAMOSIOS NUOSTATOS
+ 
+
+
+26. Metodikoje nurodytų priemonių, kurios leidžia surinkti dokumentus ir duomenis apie asmens tapatybę, nėra baigtinis ir gali keistis kiekvienu atveju tinkamai atsižvelgus į visas su konkrečiu atveju susijusias aplinkybes. 
+
+
+
+
+27. Nustatant asmens tapatybę visi surinkti duomenys, dokumentai ar jų kopijos ir kita informacija yra tvarkoma asmens, kurio tapatybė nustatinėjama, MIGRIS byloje.
+
+
+
+
+28. Nustatant asmens tapatybę, duomenų subjektų asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo ir Migracijos departamento veiklą reglamentuojančių teisės aktų nuostatomis.
+
+
+
+
+
+
+_____________________

@@ -1,0 +1,5 @@
+title	reason	url
+Original published files (DOCX/PDF) and annexes of the acts in index.tsv	e-tar.lt answers scripts with a Cloudflare bot check (HTTP 403); text taken from the open-data copy instead; annexes (mostly forms) not fetched	https://www.e-tar.lt/
+Migration Department website: legal information, FAQ and any guidance pages	migracija.lrv.lt answers scripts with a Cloudflare bot check (HTTP 403 on robots.txt and all pages); not fetched	https://migracija.lrv.lt/
+Seimas legal acts database copies of the same acts	e-seimas.lrs.lt answers scripts with a Cloudflare bot check (HTTP 403); not fetched	https://e-seimas.lrs.lt/
+Migration Department director's order 3K-319 (2020) on client service and 3K-195 (2024) on family-ties data requests	front-office service rules, not decision guidance; left out on purpose	https://www.e-tar.lt/
